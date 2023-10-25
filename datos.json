@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "Los más bellos cuentos Zen",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/1_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/1_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/1_3.webp"],
+        "soporte": "editorial",
+        "abstract": "Publicación de encuadernación japonesa",
+        "texto": "Proyecto editorial de encuadernación japonesa.  Su fin es comunicar la filosofía Zen bajo los conceptos VACÍO y NARRATIVAS INMERSIVAS, con el objetivo de utilizar las narrativas como un medio para contemplar el vacío en la fisolosofía ZEN. A través de la edición, selección y composición,  se utiliza la repeetición y formas sin relleno como lenguaje para su comunicación conceptual"
+    },
+    {
+        "nombre": "Dulces a la vista",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/2_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/2_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/2_3.webp"],
+        "soporte": "servicio",
+        "abstract": "Programa dirigido a los productores de dulces la Ligua",
+        "texto": "Un programa de intervención para los productores de dulces en la Ligua. El énfasis es visibilizar las casas de elaboración. Busca aumentar el valor de la indicación geográfica, en conjunto con el sello, así como impulsar el turismo. El programa apoya la asociación facilitando elementos identificadores como carteles y una marquesina"
+    },
+    {
+        "nombre": "Aguas maule",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/3_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/3_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/3_3.webp"],
+        "soporte": "servicio",
+        "abstract": "Sistema de información",
+        "texto": "Es un sistema de información que involucra un Portal web y herramientas enfocadas en la escasez hídrica.  Aguas Maule recopila información sobre proyectos de captación de agua lluvia, reutilización de aguas grises, comentarios de la comunidad y contactos de organizaciones. Se comunicará su existencia a dueños de segunda vivienda y turistas a través de materiales, como placas, stickers y afiches, los cuales se encuentran en puntos de difusión como almacenes y hostales.  Las personas también podrán informarse sobre la problemática del agua en el Maule en el portal y revisar los proyectos y hábitos recomendados, lo que llevará a que los residentes temporales actúen de manera consciente"
+    },
+    {
+        "nombre": "Tenalitos",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/4_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/4_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/4_3.webp"],
+        "soporte": "Juguete producto de construcción",
+        "abstract": "Nunc efficitur commodo risus, at sagittis dui accumsan",
+        "texto": "Un juguete de construcción modular. Se dispone de un tablero a modo de paisaje y varias piezas apilables que conforman la flora de un bio-jardín, el cual da paso a la llegada de sus habitantes. Primer contacto con el incentivo al cuidado y preservación de la naturaleza. El niño juega el rol de ‘’creador’’ y ‘’cuidador’’ simulando la construcción de su primer jardín."
+    },
+    {
+        "nombre": "YA GI",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/5_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/5_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/5_3.webp"],
+        "soporte": "producto",
+        "abstract": "Re-diseño producto e interacción",
+        "texto": "YA GI es un producto que pone en alza la interculturalidad entre Japón y Chile, rediseñando el consumo del alimento ONIGIRI. rescata los valores de la marca MOSHI MOSHI LAMPS, inspirándose de los conceptos atraídos en su identidad. Para acercar un elemento común entre ambos países, su gráfica representa la geografía de los países: En su parte delantera te aproxima las tres montañas sagradas de Japón, mientras que en la parte trasera encuentras el volcán Chaitén"
+    },
+    {
+        "nombre": "Hour Glassn't",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/6_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/6_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/6_3.webp"],
+        "soporte": "producto",
+        "abstract": "Reloj escultórico y funcional",
+        "texto": "El principal atractivo de Hourglassn't se remonta a su inspiración formal. Acogiendo un constraste entre matrialidad, el reloj abstrae la forma curva del reloj de arena. Genrando una estructura de tensión basándose en cordeles, orificios y nudos, el reloj posee un carácter escultural que le permite lucirse como decoración funcional"
+    },
+    {
+        "nombre": "Repercusión",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/7_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/7_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/7_3.webp"],
+        "soporte": "producto",
+        "abstract": "Silla estética y funcional",
+        "texto": "Durante la celebración del Año Nuevo Chino, la danza del dragón abre paso entre las tradiciones de la festividad desplegando una identidad única. Utiliza un contraste angular como principal atractivo en ambos reposabrasos, aprovcechando sus ángulos agudos"
+    },
+    {
+        "nombre": "Acoplao'",
+        "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/8_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/8_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/8_3.webp"],
+        "soporte": "proucto",
+        "abstract": "Extensión de apoyo para puestos con ruedas",
+        "texto": "Una extensión para el mecanismo de movilidad y apoyo de los puestos ambulantes que utilizan ruedas. Porque las ruedas y los puntos de agarre, junto con lo que transportan,  entorpecen la movilidad y/o traslado según el cambio de terreno que se presente"
+    }
+
+]
