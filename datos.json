@@ -51,7 +51,7 @@
     {
         "nombre": "Acoplao'",
         "fotos": ["https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/8_1.png", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/8_2.webp", "https://raw.githubusercontent.com/emilgatica/DNM_12/main/img/8_3.webp"],
-        "soporte": "proucto",
+        "soporte": "producto",
         "abstract": "Extensión de apoyo para puestos con ruedas",
         "texto": "Una extensión para el mecanismo de movilidad y apoyo de los puestos ambulantes que utilizan ruedas. Porque las ruedas y los puntos de agarre, junto con lo que transportan,  entorpecen la movilidad y/o traslado según el cambio de terreno que se presente."
     }
